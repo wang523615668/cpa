@@ -16,3 +16,4 @@ logs/
 *.bak*
 cli-proxy-api
 static/
+.secrets.env
