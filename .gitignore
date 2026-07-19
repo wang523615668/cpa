@@ -1,0 +1,18 @@
+# Sensitive
+auths/
+auths_pending/
+auths_quarantine/
+config.yaml
+*.conf
+*.token
+*.key
+.env
+cookie*
+*.cookie
+
+# Large/binary
+logs/
+*.tar.gz
+*.bak*
+cli-proxy-api
+static/

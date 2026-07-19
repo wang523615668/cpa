@@ -1,0 +1,153 @@
+{
+  "ts": "2026-07-16T07:31:12",
+  "auth_total": 112,
+  "auth_healthy_files": 99,
+  "auth_usable": 99,
+  "auth_healthy": 99,
+  "min_healthy": 30,
+  "target_pool": 100,
+  "need_more": 0,
+  "chat_probe": {
+    "ok": false,
+    "status": null,
+    "latency_s": 45.03,
+    "tag": "error",
+    "body_preview": "timed out"
+  },
+  "spending_errors_6h": 0,
+  "auth_scan": {
+    "ok": true,
+    "summary": [
+      "CPA号池扫描 total=112 usable≈99 unavailable=0 spending=0 perm_denied=0",
+      "actions: {\"quarantine\": {\"quarantined\": [], \"count\": 0}, \"revive\": {\"revived\": [], \"still_quarantined\": [{\"id\": \"xai-rpymoipzz58@523615668.xyz.json\", \"email\": \"rpymoipzz58@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.901767842777776, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-eznctnh2ts8@523615668.xyz.json\", \"email\": \"eznctnh2ts8@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.901773795277776, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-nikncyut5lp@523615668.xyz.json\", \"email\": \"nikncyut5lp@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.901768931944446, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-6ix6qftmi42@523615668.xyz.json\", \"email\": \"6ix6qftmi42@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 17.872110259444444, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-wlee2iar1rr@523615668.xyz.json\", \"email\": \"wlee2iar1rr@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.90176554, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-cg85ldskdzm@523615668.xyz.json\", \"email\": \"cg85ldskdzm@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 18.004146425277778, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-swhybawuio9@523615668.xyz.json\", \"email\": \"swhybawuio9@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 17.87210599861111, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-x2eenmwb@523615668.xyz.json\", \"email\": \"x2eenmwb@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.90176462138889, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-ofw1ibhtm7k@523615668.xyz.json\", \"email\": \"ofw1ibhtm7k@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 17.872106627222223, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-2u2ah4jimlf@523615668.xyz.json\", \"email\": \"2u2ah4jimlf@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.901776950555558, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-ko0umy1zg9n@523615668.xyz.json\", \"email\": \"ko0umy1zg9n@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.901769594444445, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-giwueasyt5o@523615668.xyz.json\", \"email\": \"giwueasyt5o@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.90177308861111, \"still_spending\": false, \"still_unavail\": false}, {\"id\": \"xai-skfgatvh14b@523615668.xyz.json\", \"email\": \"skfgatvh14b@523615668.xyz\", \"reason\": \"spending_exhausted_rolling_24h\", \"age_h\": 19.901767270833332, \"still_spending\": false, \"still_unavail\": false}]}}",
+      "report: /vol1/1000/openzl/cpa/monitor/auth_invalid_report.json"
+    ],
+    "usable": 99,
+    "total": 112,
+    "unavailable": 0,
+    "by_tag": {
+      "none": 112
+    },
+    "spending": 0,
+    "actions": {
+      "quarantine": {
+        "quarantined": [],
+        "count": 0
+      },
+      "revive": {
+        "revived": [],
+        "still_quarantined": [
+          {
+            "id": "xai-rpymoipzz58@523615668.xyz.json",
+            "email": "rpymoipzz58@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.901767842777776,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-eznctnh2ts8@523615668.xyz.json",
+            "email": "eznctnh2ts8@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.901773795277776,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-nikncyut5lp@523615668.xyz.json",
+            "email": "nikncyut5lp@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.901768931944446,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-6ix6qftmi42@523615668.xyz.json",
+            "email": "6ix6qftmi42@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 17.872110259444444,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-wlee2iar1rr@523615668.xyz.json",
+            "email": "wlee2iar1rr@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.90176554,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-cg85ldskdzm@523615668.xyz.json",
+            "email": "cg85ldskdzm@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 18.004146425277778,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-swhybawuio9@523615668.xyz.json",
+            "email": "swhybawuio9@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 17.87210599861111,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-x2eenmwb@523615668.xyz.json",
+            "email": "x2eenmwb@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.90176462138889,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-ofw1ibhtm7k@523615668.xyz.json",
+            "email": "ofw1ibhtm7k@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 17.872106627222223,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-2u2ah4jimlf@523615668.xyz.json",
+            "email": "2u2ah4jimlf@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.901776950555558,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-ko0umy1zg9n@523615668.xyz.json",
+            "email": "ko0umy1zg9n@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.901769594444445,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-giwueasyt5o@523615668.xyz.json",
+            "email": "giwueasyt5o@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.90177308861111,
+            "still_spending": false,
+            "still_unavail": false
+          },
+          {
+            "id": "xai-skfgatvh14b@523615668.xyz.json",
+            "email": "skfgatvh14b@523615668.xyz",
+            "reason": "spending_exhausted_rolling_24h",
+            "age_h": 19.901767270833332,
+            "still_spending": false,
+            "still_unavail": false
+          }
+        ]
+      }
+    }
+  },
+  "auto_replenish": {
+    "triggered": false,
+    "gap_to_target": 1
+  },
+  "quota_note": "free-usage-exhausted = rolling 24h ~2M tokens; auto-revives after ~20h quarantine"
+}

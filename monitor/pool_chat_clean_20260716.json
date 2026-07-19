@@ -1,0 +1,1944 @@
+{
+  "ts": 1784162758,
+  "scanned": 117,
+  "summary": {
+    "permission_denied": 95,
+    "auth_invalid": 11,
+    "chat_ok": 11
+  },
+  "moved_count": 106,
+  "kept_chat_ok": 11,
+  "kept_other": 0,
+  "hot_after": 11,
+  "quarantine_after": 108,
+  "moved": [
+    {
+      "file": "xai-0gp11sbe9u8c@523615668.xyz.json",
+      "email": "0gp11sbe9u8c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-0iimuan5ohur@523615668.xyz.json",
+      "email": "0iimuan5ohur@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-0r1svp5q2cm@523615668.xyz.json",
+      "email": "0r1svp5q2cm@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-15rzyakgziz@523615668.xyz.json",
+      "email": "15rzyakgziz@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-163qi9vlmj@523615668.xyz.json",
+      "email": "163qi9vlmj@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-1bbs8nprpb3@523615668.xyz.json",
+      "email": "1bbs8nprpb3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-1kfeie115vx@523615668.xyz.json",
+      "email": "1kfeie115vx@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-1t1a13nbzpl@523615668.xyz.json",
+      "email": "1t1a13nbzpl@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-23exam9tu8hh@523615668.xyz.json",
+      "email": "23exam9tu8hh@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-2pn7f6dx95u@523615668.xyz.json",
+      "email": "2pn7f6dx95u@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-2u2ah4jimlf@523615668.xyz.json",
+      "email": "2u2ah4jimlf@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-2xo6cp5nfqq@523615668.xyz.json",
+      "email": "2xo6cp5nfqq@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-35nc0pmc0hh@523615668.xyz.json",
+      "email": "35nc0pmc0hh@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-39avc4y0lxu@523615668.xyz.json",
+      "email": "39avc4y0lxu@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-3p7pq0f1s8c@523615668.xyz.json",
+      "email": "3p7pq0f1s8c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-3ykmp8u719p@523615668.xyz.json",
+      "email": "3ykmp8u719p@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-45dwrf9vhk1@523615668.xyz.json",
+      "email": "45dwrf9vhk1@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-45woarqlj9z@523615668.xyz.json",
+      "email": "45woarqlj9z@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-4hh4voq6pny@523615668.xyz.json",
+      "email": "4hh4voq6pny@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-5ryyl4xea3d@523615668.xyz.json",
+      "email": "5ryyl4xea3d@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-65r7lnfwszs@523615668.xyz.json",
+      "email": "65r7lnfwszs@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6917d522lzk@523615668.xyz.json",
+      "email": "6917d522lzk@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6g3u2wtygp@523615668.xyz.json",
+      "email": "6g3u2wtygp@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6hnkb7mu11y@523615668.xyz.json",
+      "email": "6hnkb7mu11y@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6owklbwxifu@523615668.xyz.json",
+      "email": "6owklbwxifu@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6qy7le1kfp8@523615668.xyz.json",
+      "email": "6qy7le1kfp8@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6wde65lpbd5@523615668.xyz.json",
+      "email": "6wde65lpbd5@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-6yz7fu2a4rp@523615668.xyz.json",
+      "email": "6yz7fu2a4rp@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-6zpbw1d57ow@523615668.xyz.json",
+      "email": "6zpbw1d57ow@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-77xsixg3ki8@523615668.xyz.json",
+      "email": "77xsixg3ki8@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-7e5cz1j9l1y@523615668.xyz.json",
+      "email": "7e5cz1j9l1y@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-7ijrwh3ir9o@523615668.xyz.json",
+      "email": "7ijrwh3ir9o@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-8bicha6vdof@523615668.xyz.json",
+      "email": "8bicha6vdof@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-8h0bzwxzx5l@523615668.xyz.json",
+      "email": "8h0bzwxzx5l@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-9eu8ct6bs1w@523615668.xyz.json",
+      "email": "9eu8ct6bs1w@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-9juu55sc1ud@523615668.xyz.json",
+      "email": "9juu55sc1ud@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-9ua29wbnfqb@523615668.xyz.json",
+      "email": "9ua29wbnfqb@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-ab9xlmxukqf@523615668.xyz.json",
+      "email": "ab9xlmxukqf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-am0mcynoicn@523615668.xyz.json",
+      "email": "am0mcynoicn@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-aooptb5kgco@523615668.xyz.json",
+      "email": "aooptb5kgco@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-b3qunzkuaa@523615668.xyz.json",
+      "email": "b3qunzkuaa@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-cg85ldskdzm@523615668.xyz.json",
+      "email": "cg85ldskdzm@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-cids9fhlp0t@523615668.xyz.json",
+      "email": "cids9fhlp0t@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-dh3w6267j45@523615668.xyz.json",
+      "email": "dh3w6267j45@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-ei18vcj4rlc@523615668.xyz.json",
+      "email": "ei18vcj4rlc@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-evkeg2uts8q@523615668.xyz.json",
+      "email": "evkeg2uts8q@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-exbm590mw8c@523615668.xyz.json",
+      "email": "exbm590mw8c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-eznctnh2ts8@523615668.xyz.json",
+      "email": "eznctnh2ts8@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-ffue1df7g3@523615668.xyz.json",
+      "email": "ffue1df7g3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-g3ewzxvdj8a@523615668.xyz.json",
+      "email": "g3ewzxvdj8a@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-g5whugk7a6c@523615668.xyz.json",
+      "email": "g5whugk7a6c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-g60crgo5gic@523615668.xyz.json",
+      "email": "g60crgo5gic@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-gijwu7m9s4e@523615668.xyz.json",
+      "email": "gijwu7m9s4e@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-gywujgffp6b@523615668.xyz.json",
+      "email": "gywujgffp6b@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-hezcg1ga7j9@523615668.xyz.json",
+      "email": "hezcg1ga7j9@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-hqaa15qlr4f@523615668.xyz.json",
+      "email": "hqaa15qlr4f@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-i2v1qp5o5m@523615668.xyz.json",
+      "email": "i2v1qp5o5m@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-i8g0wrm07fd@523615668.xyz.json",
+      "email": "i8g0wrm07fd@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-ipgqdv39g7@523615668.xyz.json",
+      "email": "ipgqdv39g7@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-iy59h19985@523615668.xyz.json",
+      "email": "iy59h19985@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-j0gi7cndh6f@523615668.xyz.json",
+      "email": "j0gi7cndh6f@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-jgpyy11muz@523615668.xyz.json",
+      "email": "jgpyy11muz@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-jvtwoiudp5a@523615668.xyz.json",
+      "email": "jvtwoiudp5a@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-lbkwli440x@523615668.xyz.json",
+      "email": "lbkwli440x@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-m5fj9eexrf@523615668.xyz.json",
+      "email": "m5fj9eexrf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-msx9ahlpcnf@523615668.xyz.json",
+      "email": "msx9ahlpcnf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-n4di5idza48@523615668.xyz.json",
+      "email": "n4di5idza48@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-n8w9w6i0xcr@523615668.xyz.json",
+      "email": "n8w9w6i0xcr@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-nldlno0sz4f@523615668.xyz.json",
+      "email": "nldlno0sz4f@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-o0bdv23vgic@523615668.xyz.json",
+      "email": "o0bdv23vgic@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-odndms5op1o@523615668.xyz.json",
+      "email": "odndms5op1o@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-oizxudvealq@523615668.xyz.json",
+      "email": "oizxudvealq@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-oqyggfjlnse@523615668.xyz.json",
+      "email": "oqyggfjlnse@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-oxjoj9manqh@523615668.xyz.json",
+      "email": "oxjoj9manqh@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-peslohs5yri@523615668.xyz.json",
+      "email": "peslohs5yri@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-pu3sy1dpr4q@523615668.xyz.json",
+      "email": "pu3sy1dpr4q@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-qav8l9s7vr9@523615668.xyz.json",
+      "email": "qav8l9s7vr9@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-qfqvjj3qqei@523615668.xyz.json",
+      "email": "qfqvjj3qqei@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-qgsmi9flxj@523615668.xyz.json",
+      "email": "qgsmi9flxj@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-qulykni4o3@523615668.xyz.json",
+      "email": "qulykni4o3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-r0azfsufgi@523615668.xyz.json",
+      "email": "r0azfsufgi@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-rd95cw3hcb@523615668.xyz.json",
+      "email": "rd95cw3hcb@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-rv9pkjx904g@523615668.xyz.json",
+      "email": "rv9pkjx904g@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-rvz55hf2wb@523615668.xyz.json",
+      "email": "rvz55hf2wb@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-ryg72un8mxh@523615668.xyz.json",
+      "email": "ryg72un8mxh@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-s75u38n5g3@523615668.xyz.json",
+      "email": "s75u38n5g3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-shyt8f7hia@523615668.xyz.json",
+      "email": "shyt8f7hia@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-trx5ab46n9@523615668.xyz.json",
+      "email": "trx5ab46n9@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-u5nxu9zzo5m@523615668.xyz.json",
+      "email": "u5nxu9zzo5m@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-vu0fgtj9u8n@523615668.xyz.json",
+      "email": "vu0fgtj9u8n@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-vvtxt37udf@523615668.xyz.json",
+      "email": "vvtxt37udf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-vw036y7bglk@523615668.xyz.json",
+      "email": "vw036y7bglk@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-w0x8deetj2@523615668.xyz.json",
+      "email": "w0x8deetj2@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-wwb5xkrlbn8@523615668.xyz.json",
+      "email": "wwb5xkrlbn8@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-x6n7mnwhgcc@523615668.xyz.json",
+      "email": "x6n7mnwhgcc@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-xemdxzjea3l@523615668.xyz.json",
+      "email": "xemdxzjea3l@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-xrt16z5vjk@523615668.xyz.json",
+      "email": "xrt16z5vjk@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-xt2sqqad6km@523615668.xyz.json",
+      "email": "xt2sqqad6km@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-xu2nlduy6w@523615668.xyz.json",
+      "email": "xu2nlduy6w@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-yaq7tq8z1d@523615668.xyz.json",
+      "email": "yaq7tq8z1d@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-yoqqy7kyu3@523615668.xyz.json",
+      "email": "yoqqy7kyu3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-yzfxli4j1p@523615668.xyz.json",
+      "email": "yzfxli4j1p@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-z3ynzruzw1h@523615668.xyz.json",
+      "email": "z3ynzruzw1h@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-z6qszarxfw@523615668.xyz.json",
+      "email": "z6qszarxfw@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401
+    },
+    {
+      "file": "xai-z701rlbt4fr@523615668.xyz.json",
+      "email": "z701rlbt4fr@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    },
+    {
+      "file": "xai-zvlzyykm3to@523615668.xyz.json",
+      "email": "zvlzyykm3to@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403
+    }
+  ],
+  "kept_ok_files": [
+    "xai-6ix6qftmi42@523615668.xyz.json",
+    "xai-bft6vnm571@523615668.xyz.json",
+    "xai-giwueasyt5o@523615668.xyz.json",
+    "xai-ko0umy1zg9n@523615668.xyz.json",
+    "xai-nikncyut5lp@523615668.xyz.json",
+    "xai-ofw1ibhtm7k@523615668.xyz.json",
+    "xai-rpymoipzz58@523615668.xyz.json",
+    "xai-skfgatvh14b@523615668.xyz.json",
+    "xai-swhybawuio9@523615668.xyz.json",
+    "xai-wlee2iar1rr@523615668.xyz.json",
+    "xai-x2eenmwb@523615668.xyz.json"
+  ],
+  "kept_other_detail": [],
+  "all": [
+    {
+      "file": "xai-15rzyakgziz@523615668.xyz.json",
+      "email": "15rzyakgziz@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1573,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-15rzyakgziz@523615668.xyz.json"
+    },
+    {
+      "file": "xai-0r1svp5q2cm@523615668.xyz.json",
+      "email": "0r1svp5q2cm@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1731,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-0r1svp5q2cm@523615668.xyz.json"
+    },
+    {
+      "file": "xai-1kfeie115vx@523615668.xyz.json",
+      "email": "1kfeie115vx@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1759,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-1kfeie115vx@523615668.xyz.json"
+    },
+    {
+      "file": "xai-1t1a13nbzpl@523615668.xyz.json",
+      "email": "1t1a13nbzpl@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1762,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-1t1a13nbzpl@523615668.xyz.json"
+    },
+    {
+      "file": "xai-1bbs8nprpb3@523615668.xyz.json",
+      "email": "1bbs8nprpb3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1793,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-1bbs8nprpb3@523615668.xyz.json"
+    },
+    {
+      "file": "xai-0gp11sbe9u8c@523615668.xyz.json",
+      "email": "0gp11sbe9u8c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1801,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-0gp11sbe9u8c@523615668.xyz.json"
+    },
+    {
+      "file": "xai-163qi9vlmj@523615668.xyz.json",
+      "email": "163qi9vlmj@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1795,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-163qi9vlmj@523615668.xyz.json"
+    },
+    {
+      "file": "xai-0iimuan5ohur@523615668.xyz.json",
+      "email": "0iimuan5ohur@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 2197,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-0iimuan5ohur@523615668.xyz.json"
+    },
+    {
+      "file": "xai-23exam9tu8hh@523615668.xyz.json",
+      "email": "23exam9tu8hh@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1440,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-23exam9tu8hh@523615668.xyz.json"
+    },
+    {
+      "file": "xai-2pn7f6dx95u@523615668.xyz.json",
+      "email": "2pn7f6dx95u@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1492,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-2pn7f6dx95u@523615668.xyz.json"
+    },
+    {
+      "file": "xai-2u2ah4jimlf@523615668.xyz.json",
+      "email": "2u2ah4jimlf@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1570,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-2u2ah4jimlf@523615668.xyz.json"
+    },
+    {
+      "file": "xai-2xo6cp5nfqq@523615668.xyz.json",
+      "email": "2xo6cp5nfqq@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1590,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-2xo6cp5nfqq@523615668.xyz.json"
+    },
+    {
+      "file": "xai-3p7pq0f1s8c@523615668.xyz.json",
+      "email": "3p7pq0f1s8c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1616,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-3p7pq0f1s8c@523615668.xyz.json"
+    },
+    {
+      "file": "xai-35nc0pmc0hh@523615668.xyz.json",
+      "email": "35nc0pmc0hh@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1649,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-35nc0pmc0hh@523615668.xyz.json"
+    },
+    {
+      "file": "xai-39avc4y0lxu@523615668.xyz.json",
+      "email": "39avc4y0lxu@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1874,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-39avc4y0lxu@523615668.xyz.json"
+    },
+    {
+      "file": "xai-3ykmp8u719p@523615668.xyz.json",
+      "email": "3ykmp8u719p@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1502,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-3ykmp8u719p@523615668.xyz.json"
+    },
+    {
+      "file": "xai-45dwrf9vhk1@523615668.xyz.json",
+      "email": "45dwrf9vhk1@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1424,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-45dwrf9vhk1@523615668.xyz.json"
+    },
+    {
+      "file": "xai-45woarqlj9z@523615668.xyz.json",
+      "email": "45woarqlj9z@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1504,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-45woarqlj9z@523615668.xyz.json"
+    },
+    {
+      "file": "xai-4hh4voq6pny@523615668.xyz.json",
+      "email": "4hh4voq6pny@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1503,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-4hh4voq6pny@523615668.xyz.json"
+    },
+    {
+      "file": "xai-65r7lnfwszs@523615668.xyz.json",
+      "email": "65r7lnfwszs@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1443,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-65r7lnfwszs@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6917d522lzk@523615668.xyz.json",
+      "email": "6917d522lzk@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1471,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6917d522lzk@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6g3u2wtygp@523615668.xyz.json",
+      "email": "6g3u2wtygp@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1475,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6g3u2wtygp@523615668.xyz.json"
+    },
+    {
+      "file": "xai-5ryyl4xea3d@523615668.xyz.json",
+      "email": "5ryyl4xea3d@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1866,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-5ryyl4xea3d@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6hnkb7mu11y@523615668.xyz.json",
+      "email": "6hnkb7mu11y@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1832,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6hnkb7mu11y@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6owklbwxifu@523615668.xyz.json",
+      "email": "6owklbwxifu@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1691,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6owklbwxifu@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6wde65lpbd5@523615668.xyz.json",
+      "email": "6wde65lpbd5@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1733,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6wde65lpbd5@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6qy7le1kfp8@523615668.xyz.json",
+      "email": "6qy7le1kfp8@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1808,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6qy7le1kfp8@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6yz7fu2a4rp@523615668.xyz.json",
+      "email": "6yz7fu2a4rp@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1774,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6yz7fu2a4rp@523615668.xyz.json"
+    },
+    {
+      "file": "xai-77xsixg3ki8@523615668.xyz.json",
+      "email": "77xsixg3ki8@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1515,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-77xsixg3ki8@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6ix6qftmi42@523615668.xyz.json",
+      "email": "6ix6qftmi42@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2439
+    },
+    {
+      "file": "xai-7e5cz1j9l1y@523615668.xyz.json",
+      "email": "7e5cz1j9l1y@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1443,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-7e5cz1j9l1y@523615668.xyz.json"
+    },
+    {
+      "file": "xai-6zpbw1d57ow@523615668.xyz.json",
+      "email": "6zpbw1d57ow@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1957,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-6zpbw1d57ow@523615668.xyz.json"
+    },
+    {
+      "file": "xai-7ijrwh3ir9o@523615668.xyz.json",
+      "email": "7ijrwh3ir9o@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1410,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-7ijrwh3ir9o@523615668.xyz.json"
+    },
+    {
+      "file": "xai-8bicha6vdof@523615668.xyz.json",
+      "email": "8bicha6vdof@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1466,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-8bicha6vdof@523615668.xyz.json"
+    },
+    {
+      "file": "xai-8h0bzwxzx5l@523615668.xyz.json",
+      "email": "8h0bzwxzx5l@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1477,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-8h0bzwxzx5l@523615668.xyz.json"
+    },
+    {
+      "file": "xai-9eu8ct6bs1w@523615668.xyz.json",
+      "email": "9eu8ct6bs1w@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1460,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-9eu8ct6bs1w@523615668.xyz.json"
+    },
+    {
+      "file": "xai-9ua29wbnfqb@523615668.xyz.json",
+      "email": "9ua29wbnfqb@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1426,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-9ua29wbnfqb@523615668.xyz.json"
+    },
+    {
+      "file": "xai-ab9xlmxukqf@523615668.xyz.json",
+      "email": "ab9xlmxukqf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1420,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-ab9xlmxukqf@523615668.xyz.json"
+    },
+    {
+      "file": "xai-am0mcynoicn@523615668.xyz.json",
+      "email": "am0mcynoicn@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1508,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-am0mcynoicn@523615668.xyz.json"
+    },
+    {
+      "file": "xai-9juu55sc1ud@523615668.xyz.json",
+      "email": "9juu55sc1ud@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1880,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-9juu55sc1ud@523615668.xyz.json"
+    },
+    {
+      "file": "xai-aooptb5kgco@523615668.xyz.json",
+      "email": "aooptb5kgco@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1478,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-aooptb5kgco@523615668.xyz.json"
+    },
+    {
+      "file": "xai-cg85ldskdzm@523615668.xyz.json",
+      "email": "cg85ldskdzm@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1405,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-cg85ldskdzm@523615668.xyz.json"
+    },
+    {
+      "file": "xai-cids9fhlp0t@523615668.xyz.json",
+      "email": "cids9fhlp0t@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1456,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-cids9fhlp0t@523615668.xyz.json"
+    },
+    {
+      "file": "xai-dh3w6267j45@523615668.xyz.json",
+      "email": "dh3w6267j45@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1426,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-dh3w6267j45@523615668.xyz.json"
+    },
+    {
+      "file": "xai-b3qunzkuaa@523615668.xyz.json",
+      "email": "b3qunzkuaa@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1877,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-b3qunzkuaa@523615668.xyz.json"
+    },
+    {
+      "file": "xai-ei18vcj4rlc@523615668.xyz.json",
+      "email": "ei18vcj4rlc@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1510,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-ei18vcj4rlc@523615668.xyz.json"
+    },
+    {
+      "file": "xai-evkeg2uts8q@523615668.xyz.json",
+      "email": "evkeg2uts8q@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1532,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-evkeg2uts8q@523615668.xyz.json"
+    },
+    {
+      "file": "xai-bft6vnm571@523615668.xyz.json",
+      "email": "bft6vnm571@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2500
+    },
+    {
+      "file": "xai-exbm590mw8c@523615668.xyz.json",
+      "email": "exbm590mw8c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1428,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-exbm590mw8c@523615668.xyz.json"
+    },
+    {
+      "file": "xai-eznctnh2ts8@523615668.xyz.json",
+      "email": "eznctnh2ts8@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1326,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-eznctnh2ts8@523615668.xyz.json"
+    },
+    {
+      "file": "xai-g3ewzxvdj8a@523615668.xyz.json",
+      "email": "g3ewzxvdj8a@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1369,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-g3ewzxvdj8a@523615668.xyz.json"
+    },
+    {
+      "file": "xai-g5whugk7a6c@523615668.xyz.json",
+      "email": "g5whugk7a6c@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1444,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-g5whugk7a6c@523615668.xyz.json"
+    },
+    {
+      "file": "xai-gijwu7m9s4e@523615668.xyz.json",
+      "email": "gijwu7m9s4e@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1430,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-gijwu7m9s4e@523615668.xyz.json"
+    },
+    {
+      "file": "xai-ffue1df7g3@523615668.xyz.json",
+      "email": "ffue1df7g3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1859,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-ffue1df7g3@523615668.xyz.json"
+    },
+    {
+      "file": "xai-g60crgo5gic@523615668.xyz.json",
+      "email": "g60crgo5gic@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1818,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-g60crgo5gic@523615668.xyz.json"
+    },
+    {
+      "file": "xai-gywujgffp6b@523615668.xyz.json",
+      "email": "gywujgffp6b@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1434,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-gywujgffp6b@523615668.xyz.json"
+    },
+    {
+      "file": "xai-hezcg1ga7j9@523615668.xyz.json",
+      "email": "hezcg1ga7j9@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1414,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-hezcg1ga7j9@523615668.xyz.json"
+    },
+    {
+      "file": "xai-hqaa15qlr4f@523615668.xyz.json",
+      "email": "hqaa15qlr4f@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1717,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-hqaa15qlr4f@523615668.xyz.json"
+    },
+    {
+      "file": "xai-i8g0wrm07fd@523615668.xyz.json",
+      "email": "i8g0wrm07fd@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1448,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-i8g0wrm07fd@523615668.xyz.json"
+    },
+    {
+      "file": "xai-giwueasyt5o@523615668.xyz.json",
+      "email": "giwueasyt5o@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2434
+    },
+    {
+      "file": "xai-ipgqdv39g7@523615668.xyz.json",
+      "email": "ipgqdv39g7@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1450,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-ipgqdv39g7@523615668.xyz.json"
+    },
+    {
+      "file": "xai-i2v1qp5o5m@523615668.xyz.json",
+      "email": "i2v1qp5o5m@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1802,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-i2v1qp5o5m@523615668.xyz.json"
+    },
+    {
+      "file": "xai-iy59h19985@523615668.xyz.json",
+      "email": "iy59h19985@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1464,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-iy59h19985@523615668.xyz.json"
+    },
+    {
+      "file": "xai-j0gi7cndh6f@523615668.xyz.json",
+      "email": "j0gi7cndh6f@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1465,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-j0gi7cndh6f@523615668.xyz.json"
+    },
+    {
+      "file": "xai-jgpyy11muz@523615668.xyz.json",
+      "email": "jgpyy11muz@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1484,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-jgpyy11muz@523615668.xyz.json"
+    },
+    {
+      "file": "xai-jvtwoiudp5a@523615668.xyz.json",
+      "email": "jvtwoiudp5a@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1440,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-jvtwoiudp5a@523615668.xyz.json"
+    },
+    {
+      "file": "xai-m5fj9eexrf@523615668.xyz.json",
+      "email": "m5fj9eexrf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1454,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-m5fj9eexrf@523615668.xyz.json"
+    },
+    {
+      "file": "xai-lbkwli440x@523615668.xyz.json",
+      "email": "lbkwli440x@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1476,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-lbkwli440x@523615668.xyz.json"
+    },
+    {
+      "file": "xai-n4di5idza48@523615668.xyz.json",
+      "email": "n4di5idza48@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1427,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-n4di5idza48@523615668.xyz.json"
+    },
+    {
+      "file": "xai-n8w9w6i0xcr@523615668.xyz.json",
+      "email": "n8w9w6i0xcr@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1423,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-n8w9w6i0xcr@523615668.xyz.json"
+    },
+    {
+      "file": "xai-msx9ahlpcnf@523615668.xyz.json",
+      "email": "msx9ahlpcnf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 2204,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-msx9ahlpcnf@523615668.xyz.json"
+    },
+    {
+      "file": "xai-ko0umy1zg9n@523615668.xyz.json",
+      "email": "ko0umy1zg9n@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2554
+    },
+    {
+      "file": "xai-nldlno0sz4f@523615668.xyz.json",
+      "email": "nldlno0sz4f@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1364,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-nldlno0sz4f@523615668.xyz.json"
+    },
+    {
+      "file": "xai-o0bdv23vgic@523615668.xyz.json",
+      "email": "o0bdv23vgic@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1474,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-o0bdv23vgic@523615668.xyz.json"
+    },
+    {
+      "file": "xai-odndms5op1o@523615668.xyz.json",
+      "email": "odndms5op1o@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1847,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-odndms5op1o@523615668.xyz.json"
+    },
+    {
+      "file": "xai-nikncyut5lp@523615668.xyz.json",
+      "email": "nikncyut5lp@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2609
+    },
+    {
+      "file": "xai-oizxudvealq@523615668.xyz.json",
+      "email": "oizxudvealq@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1415,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-oizxudvealq@523615668.xyz.json"
+    },
+    {
+      "file": "xai-oxjoj9manqh@523615668.xyz.json",
+      "email": "oxjoj9manqh@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1468,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-oxjoj9manqh@523615668.xyz.json"
+    },
+    {
+      "file": "xai-oqyggfjlnse@523615668.xyz.json",
+      "email": "oqyggfjlnse@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1710,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-oqyggfjlnse@523615668.xyz.json"
+    },
+    {
+      "file": "xai-peslohs5yri@523615668.xyz.json",
+      "email": "peslohs5yri@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1537,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-peslohs5yri@523615668.xyz.json"
+    },
+    {
+      "file": "xai-ofw1ibhtm7k@523615668.xyz.json",
+      "email": "ofw1ibhtm7k@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2656
+    },
+    {
+      "file": "xai-pu3sy1dpr4q@523615668.xyz.json",
+      "email": "pu3sy1dpr4q@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1517,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-pu3sy1dpr4q@523615668.xyz.json"
+    },
+    {
+      "file": "xai-qav8l9s7vr9@523615668.xyz.json",
+      "email": "qav8l9s7vr9@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1479,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-qav8l9s7vr9@523615668.xyz.json"
+    },
+    {
+      "file": "xai-qgsmi9flxj@523615668.xyz.json",
+      "email": "qgsmi9flxj@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1498,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-qgsmi9flxj@523615668.xyz.json"
+    },
+    {
+      "file": "xai-qfqvjj3qqei@523615668.xyz.json",
+      "email": "qfqvjj3qqei@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1855,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-qfqvjj3qqei@523615668.xyz.json"
+    },
+    {
+      "file": "xai-qulykni4o3@523615668.xyz.json",
+      "email": "qulykni4o3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1458,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-qulykni4o3@523615668.xyz.json"
+    },
+    {
+      "file": "xai-r0azfsufgi@523615668.xyz.json",
+      "email": "r0azfsufgi@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1453,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-r0azfsufgi@523615668.xyz.json"
+    },
+    {
+      "file": "xai-rd95cw3hcb@523615668.xyz.json",
+      "email": "rd95cw3hcb@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1424,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-rd95cw3hcb@523615668.xyz.json"
+    },
+    {
+      "file": "xai-rv9pkjx904g@523615668.xyz.json",
+      "email": "rv9pkjx904g@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1476,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-rv9pkjx904g@523615668.xyz.json"
+    },
+    {
+      "file": "xai-rvz55hf2wb@523615668.xyz.json",
+      "email": "rvz55hf2wb@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1453,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-rvz55hf2wb@523615668.xyz.json"
+    },
+    {
+      "file": "xai-ryg72un8mxh@523615668.xyz.json",
+      "email": "ryg72un8mxh@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1719,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-ryg72un8mxh@523615668.xyz.json"
+    },
+    {
+      "file": "xai-s75u38n5g3@523615668.xyz.json",
+      "email": "s75u38n5g3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1464,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-s75u38n5g3@523615668.xyz.json"
+    },
+    {
+      "file": "xai-shyt8f7hia@523615668.xyz.json",
+      "email": "shyt8f7hia@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1461,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-shyt8f7hia@523615668.xyz.json"
+    },
+    {
+      "file": "xai-rpymoipzz58@523615668.xyz.json",
+      "email": "rpymoipzz58@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2599
+    },
+    {
+      "file": "xai-trx5ab46n9@523615668.xyz.json",
+      "email": "trx5ab46n9@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1429,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-trx5ab46n9@523615668.xyz.json"
+    },
+    {
+      "file": "xai-swhybawuio9@523615668.xyz.json",
+      "email": "swhybawuio9@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2263
+    },
+    {
+      "file": "xai-u5nxu9zzo5m@523615668.xyz.json",
+      "email": "u5nxu9zzo5m@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1771,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-u5nxu9zzo5m@523615668.xyz.json"
+    },
+    {
+      "file": "xai-skfgatvh14b@523615668.xyz.json",
+      "email": "skfgatvh14b@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2553
+    },
+    {
+      "file": "xai-vvtxt37udf@523615668.xyz.json",
+      "email": "vvtxt37udf@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1425,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-vvtxt37udf@523615668.xyz.json"
+    },
+    {
+      "file": "xai-vu0fgtj9u8n@523615668.xyz.json",
+      "email": "vu0fgtj9u8n@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1462,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-vu0fgtj9u8n@523615668.xyz.json"
+    },
+    {
+      "file": "xai-vw036y7bglk@523615668.xyz.json",
+      "email": "vw036y7bglk@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1444,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-vw036y7bglk@523615668.xyz.json"
+    },
+    {
+      "file": "xai-w0x8deetj2@523615668.xyz.json",
+      "email": "w0x8deetj2@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1442,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-w0x8deetj2@523615668.xyz.json"
+    },
+    {
+      "file": "xai-wwb5xkrlbn8@523615668.xyz.json",
+      "email": "wwb5xkrlbn8@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1429,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-wwb5xkrlbn8@523615668.xyz.json"
+    },
+    {
+      "file": "xai-x6n7mnwhgcc@523615668.xyz.json",
+      "email": "x6n7mnwhgcc@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1493,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-x6n7mnwhgcc@523615668.xyz.json"
+    },
+    {
+      "file": "xai-xrt16z5vjk@523615668.xyz.json",
+      "email": "xrt16z5vjk@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1486,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-xrt16z5vjk@523615668.xyz.json"
+    },
+    {
+      "file": "xai-xemdxzjea3l@523615668.xyz.json",
+      "email": "xemdxzjea3l@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1510,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-xemdxzjea3l@523615668.xyz.json"
+    },
+    {
+      "file": "xai-wlee2iar1rr@523615668.xyz.json",
+      "email": "wlee2iar1rr@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2656
+    },
+    {
+      "file": "xai-xu2nlduy6w@523615668.xyz.json",
+      "email": "xu2nlduy6w@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1709,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-xu2nlduy6w@523615668.xyz.json"
+    },
+    {
+      "file": "xai-xt2sqqad6km@523615668.xyz.json",
+      "email": "xt2sqqad6km@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1910,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-xt2sqqad6km@523615668.xyz.json"
+    },
+    {
+      "file": "xai-x2eenmwb@523615668.xyz.json",
+      "email": "x2eenmwb@523615668.xyz",
+      "bucket": "chat_ok",
+      "status": 200,
+      "endpoint": "chat/completions",
+      "error": "",
+      "text": "MINT_OK",
+      "ms": 2578
+    },
+    {
+      "file": "xai-yoqqy7kyu3@523615668.xyz.json",
+      "email": "yoqqy7kyu3@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1484,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-yoqqy7kyu3@523615668.xyz.json"
+    },
+    {
+      "file": "xai-z3ynzruzw1h@523615668.xyz.json",
+      "email": "z3ynzruzw1h@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1443,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-z3ynzruzw1h@523615668.xyz.json"
+    },
+    {
+      "file": "xai-z701rlbt4fr@523615668.xyz.json",
+      "email": "z701rlbt4fr@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1434,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-z701rlbt4fr@523615668.xyz.json"
+    },
+    {
+      "file": "xai-z6qszarxfw@523615668.xyz.json",
+      "email": "z6qszarxfw@523615668.xyz",
+      "bucket": "auth_invalid",
+      "status": 401,
+      "endpoint": "chat/completions",
+      "error": "{\"error\":\"Invalid or expired credentials (auth_kind=bearer, x_xai_token_auth=xai-grok-cli, upstream=PermissionDenied, reason=no auth context)\"}",
+      "text": "",
+      "ms": 1706,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-z6qszarxfw@523615668.xyz.json"
+    },
+    {
+      "file": "xai-zvlzyykm3to@523615668.xyz.json",
+      "email": "zvlzyykm3to@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 1457,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-zvlzyykm3to@523615668.xyz.json"
+    },
+    {
+      "file": "xai-yaq7tq8z1d@523615668.xyz.json",
+      "email": "yaq7tq8z1d@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 2435,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-yaq7tq8z1d@523615668.xyz.json"
+    },
+    {
+      "file": "xai-yzfxli4j1p@523615668.xyz.json",
+      "email": "yzfxli4j1p@523615668.xyz",
+      "bucket": "permission_denied",
+      "status": 403,
+      "endpoint": "chat/completions",
+      "error": "{\"code\":\"permission-denied\",\"error\":\"Access to the chat endpoint is denied. Please ensure you're using the correct credentials. If you believe this is a mistake, please log into console.x.ai and update the permissions, or contact support.\"}",
+      "text": "",
+      "ms": 2201,
+      "quarantine_path": "/vol1/1000/openzl/cpa/auths_quarantine/xai-yzfxli4j1p@523615668.xyz.json"
+    }
+  ]
+}

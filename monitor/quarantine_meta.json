@@ -1,0 +1,136 @@
+{
+  "accounts": {
+    "xai-2u2ah4jimlf@523615668.xyz.json": {
+      "email": "2u2ah4jimlf@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.241249+00:00",
+      "token_usage": {
+        "actual": 2135162,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2135162/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-eznctnh2ts8@523615668.xyz.json": {
+      "email": "eznctnh2ts8@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.252608+00:00",
+      "token_usage": {
+        "actual": 2173390,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2173390/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-giwueasyt5o@523615668.xyz.json": {
+      "email": "giwueasyt5o@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.255152+00:00",
+      "token_usage": {
+        "actual": 2290906,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2290906/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-ko0umy1zg9n@523615668.xyz.json": {
+      "email": "ko0umy1zg9n@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.267731+00:00",
+      "token_usage": {
+        "actual": 2048397,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2048397/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-nikncyut5lp@523615668.xyz.json": {
+      "email": "nikncyut5lp@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.270116+00:00",
+      "token_usage": {
+        "actual": 2129983,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2129983/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-rpymoipzz58@523615668.xyz.json": {
+      "email": "rpymoipzz58@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.274037+00:00",
+      "token_usage": {
+        "actual": 2297181,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2297181/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-skfgatvh14b@523615668.xyz.json": {
+      "email": "skfgatvh14b@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.276096+00:00",
+      "token_usage": {
+        "actual": 2018735,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2018735/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-wlee2iar1rr@523615668.xyz.json": {
+      "email": "wlee2iar1rr@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.282327+00:00",
+      "token_usage": {
+        "actual": 2115951,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2115951/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-x2eenmwb@523615668.xyz.json": {
+      "email": "x2eenmwb@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T03:36:21.285634+00:00",
+      "token_usage": {
+        "actual": 2078754,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2078754/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-cg85ldskdzm@523615668.xyz.json": {
+      "email": "cg85ldskdzm@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T05:30:12.711140+00:00",
+      "token_usage": {
+        "actual": 2078063,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2078063/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-6ix6qftmi42@523615668.xyz.json": {
+      "email": "6ix6qftmi42@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T05:38:08.041337+00:00",
+      "token_usage": {
+        "actual": 2105877,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2105877/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-ofw1ibhtm7k@523615668.xyz.json": {
+      "email": "ofw1ibhtm7k@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T05:38:08.054413+00:00",
+      "token_usage": {
+        "actual": 2134811,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2134811/2000000. Upgrade to a Grok subsc"
+    },
+    "xai-swhybawuio9@523615668.xyz.json": {
+      "email": "swhybawuio9@523615668.xyz",
+      "reason": "spending_exhausted",
+      "quarantined_at": "2026-07-15T05:38:08.056676+00:00",
+      "token_usage": {
+        "actual": 2132823,
+        "limit": 2000000
+      },
+      "status_message": "{\"code\":\"subscription:free-usage-exhausted\",\"error\":\"You've used all the included free usage for model grok-4.5-build-free for now. Usage resets over a rolling 24-hour window — tokens (actual/limit): 2132823/2000000. Upgrade to a Grok subsc"
+    }
+  },
+  "last_quarantine": "2026-07-16T07:30:27",
+  "last_revive": "2026-07-16T07:30:27"
+}
