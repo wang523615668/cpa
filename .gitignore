@@ -17,3 +17,9 @@ logs/
 cli-proxy-api
 static/
 .secrets.env
+data/
+.env.*
+config.json
+*.db
+*.sqlite
+*credential*
